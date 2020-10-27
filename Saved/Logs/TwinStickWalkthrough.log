@@ -7323,3 +7323,1579 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.10.27-01.11.56:365][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Materials/Enemy_Assets/Parasite/parasiteZombie_diffuse_Mat]
 [2020.10.27-01.11.56:374][484]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/parasiteZombie_diffuse_Mat_Auto3CF60FE3A4061E4FB0C2F7CAA26F1B79D.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Materials/Enemy_Assets/Parasite/parasiteZombie_diffuse_Mat_Auto3.uasset'
 [2020.10.27-01.11.56:376][484]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.10.27-01.13.32:933][594]LogRenderer: Reallocating scene render targets to support 860x924 Format 10 NumSamples 1 (Frame:99887).
+[2020.10.27-01.13.32:986][595]LogRenderer: Reallocating scene render targets to support 912x924 Format 10 NumSamples 1 (Frame:99889).
+[2020.10.27-01.13.33:044][596]LogRenderer: Reallocating scene render targets to support 968x924 Format 10 NumSamples 1 (Frame:99891).
+[2020.10.27-01.13.33:167][601]LogRenderer: Reallocating scene render targets to support 976x924 Format 10 NumSamples 1 (Frame:99898).
+[2020.10.27-01.13.33:219][602]LogRenderer: Reallocating scene render targets to support 984x924 Format 10 NumSamples 1 (Frame:99900).
+[2020.10.27-01.16.42:294][397]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{70245fbf-20ce-48aa-9df2-0e832d2ad08f}.
+[2020.10.27-01.16.42:294][397]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.16.42:321][397]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.16.42:321][397]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.19.43:854][714]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.10.27-01.19.51:618][714]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.10.27-01.20.02:936][ 57]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim
+[2020.10.27-01.20.02:947][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.20.03:301][ 57]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.20.03:678][ 57]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.20.12:300][868]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Lenhart/Animations/Attack_Animations/zombie_kicking__2_.zombie_kicking__2_
+[2020.10.27-01.20.12:305][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.20.12:349][868]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.20.12:729][868]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.20.16:010][133]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.20.16:010][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.20.16:035][133]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.20.16:036][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.20.16:109][133]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.20.16:109][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.20.39:622][973]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-01.20.39:664][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.27-01.20.43:531][171]LogSlate: Window 'Parasite_Anim' being destroyed
+[2020.10.27-01.20.43:539][171]LogSlate: Window 'Parasite_Anim' being destroyed
+[2020.10.27-01.20.43:590][171]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.20.43:590][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.20.43:594][171]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.20.43:594][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.20.43:692][171]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.20.43:692][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.20.54:153][664]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter
+[2020.10.27-01.20.58:313][983]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BaseCharacter.BaseCharacter_C"',MemberName="UserConstructionScript",MemberGuid=2C6315EB4F54F26C30F9A68A7FC9FAC5)'
+[2020.10.27-01.21.14:317][543]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-01.21.19:276][952]LogEditorTransaction: Undo Move Node
+[2020.10.27-01.21.19:824][966]LogEditorTransaction: Undo Move Nodes
+[2020.10.27-01.21.20:254][998]LogEditorTransaction: Undo Paste clipboard contents
+[2020.10.27-01.21.33:244][201]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-01.21.33:298][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.10.27-01.21.35:466][401]LogSlate: Window 'EnemyCharacter' being destroyed
+[2020.10.27-01.21.35:477][401]LogSlate: Window 'EnemyCharacter' being destroyed
+[2020.10.27-01.21.35:480][401]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.21.35:480][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.21.43:558][334]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-01.21.43:573][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-01.21.43:573][334]PIE: New page: PIE session: WIPMap (Oct 26, 2020, 5:21:43 PM)
+[2020.10.27-01.21.43:601][334]LogPlayLevel: Creating play world package: /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-01.21.43:605][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004621s)
+[2020.10.27-01.21.43:606][334]LogAIModule: Creating AISystem for world WIPMap
+[2020.10.27-01.21.43:606][334]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027A7A58D000), frame # 136334
+[2020.10.27-01.21.43:606][334]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027A486FE340), frame # 136334
+[2020.10.27-01.21.43:606][334]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2020.10.27-01.21.43:606][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lenhart/WIPMap.WIPMap to /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap (0.005750s)
+[2020.10.27-01.21.43:627][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.10.27-01.21.43:630][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-01.21.43:630][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-01.21.43:630][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-01.21.43:630][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-01.21.43:630][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-01.21.43:630][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-01.21.43:630][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-01.21.43:630][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-01.21.43:630][334]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-01.21.43:630][334]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-01.21.43:638][334]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.21.43:638][334]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.21.43:664][334]LogAudioMixer: Display: Using Audio Device Headphones (3- Arctis Pro Wireless Game)
+[2020.10.27-01.21.43:664][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-01.21.43:664][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-01.21.43:665][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-01.21.43:665][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-01.21.43:679][334]LogInit: FAudioDevice initialized.
+[2020.10.27-01.21.43:688][334]LogLoad: Game class is 'TwinStickMode_C'
+[2020.10.27-01.21.43:691][334]LogWorld: Bringing World /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap up for play (max tick rate 0) at 2020.10.26-21.21.43
+[2020.10.27-01.21.43:692][334]LogWorld: Bringing up level for play took: 0.003124
+[2020.10.27-01.21.43:692][334]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.10.27-01.21.43:695][334]PIE: Server logged in
+[2020.10.27-01.21.43:696][334]PIE: Play in editor total start time 0.127 seconds.
+[2020.10.27-01.21.47:886][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/HeroCharacter.HeroCharacter
+[2020.10.27-01.21.50:524][  7]LogSlate: Window 'HeroCharacter' being destroyed
+[2020.10.27-01.21.50:534][  7]LogSlate: Window 'HeroCharacter' being destroyed
+[2020.10.27-01.21.50:537][  7]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.21.50:537][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.21.52:815][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-01.21.52:815][262]LogWorld: BeginTearingDown for /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-01.21.52:815][262]LogWorld: UWorld::CleanupWorld for WIPMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.21.52:815][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.21.52:826][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-01.21.52:829][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.21.52:865][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-01.21.52:868][262]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027A486FE340), frame # 137262
+[2020.10.27-01.21.52:868][262]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027A7A58D000), frame # 137262
+[2020.10.27-01.21.52:870][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.10.27-01.21.52:900][263]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.10.27-01.22.19:506][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.10.27-01.22.19:508][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/WIPMap" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.27-01.22.19:559][574]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/WIPMap_Auto4EE43B4B34C972F104D607995DEC84085.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto4.umap'
+[2020.10.27-01.22.19:562][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.073
+[2020.10.27-01.22.19:562][574]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2020.10.27-01.22.19:562][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-01.22.19:572][574]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-01.22.19:572][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-01.22.19:610][574]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto42559A3CD4C8D1EAF1E86739DB0848866.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto4.uasset'
+[2020.10.27-01.22.19:612][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-01.22.19:622][574]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-01.22.19:622][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-01.22.19:634][574]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto4EDC96442480810844BCA719F30EDB7A2.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto4.uasset'
+[2020.10.27-01.22.19:636][574]LogFileHelpers: Auto-saving content packages took 0.074
+[2020.10.27-01.23.33:234][398]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.10.27-01.23.43:555][615]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blend_Test.Parasite_Blend_Test
+[2020.10.27-01.23.43:564][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.23.43:655][615]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.23.43:957][615]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.24.01:016][276]Cmd: TRANSACTION UNDO
+[2020.10.27-01.24.01:016][276]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2020.10.27-01.24.01:100][276]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.24.08:995][134]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.10.27-01.24.11:154][391]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.24.39:136][104]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/zombie_stumblingFE717E3E46C623B8C61F059158F561C5.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Death_Animations/zombie_stumbling.uasset'
+[2020.10.27-01.24.39:304][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.10.27-01.24.39:332][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.10.27-01.24.39:349][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.27-01.24.39:409][104]AssetCheck: New page: Asset Save: zombie_stumbling
+[2020.10.27-01.24.39:409][104]LogContentValidation: Display: Validating AnimSequence /Game/Lenhart/Animations/Death_Animations/zombie_stumbling.zombie_stumbling
+[2020.10.27-01.24.44:047][556]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.24.44:047][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.24.46:612][794]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.24.46:612][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.24.53:666][445]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim
+[2020.10.27-01.24.53:674][445]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.24.53:977][445]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.24.54:323][445]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.24.58:567][854]LogSlate: Window 'Parasite_Anim' being destroyed
+[2020.10.27-01.24.58:576][854]LogSlate: Window 'Parasite_Anim' being destroyed
+[2020.10.27-01.24.58:576][854]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.24.58:576][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.24.58:603][854]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.24.58:603][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.24.58:695][854]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.24.58:695][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.24.58:727][854]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.24.58:727][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.24.58:731][854]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.24.58:731][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.24.58:829][854]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.24.58:829][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.02:185][194]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blend_Test.Parasite_Blend_Test
+[2020.10.27-01.25.02:193][194]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.25.02:277][194]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.25.02:592][194]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.25.40:032][ 66]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.40:032][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.43:186][361]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.43:186][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.46:941][698]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.46:941][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.47:637][759]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.47:637][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.49:950][969]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.49:950][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.52:482][195]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.52:482][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.54:314][370]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.54:314][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.57:133][640]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.57:133][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.58:160][731]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.58:160][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.58:901][793]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.58:901][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.25.59:892][882]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.25.59:892][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.01:116][997]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.01:117][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.03:004][179]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.03:004][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.05:632][434]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.05:632][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.08:944][750]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.08:945][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.09:705][818]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.09:705][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.16:829][509]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.16:829][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.18:204][636]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.18:204][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.27:126][455]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/zombie_stand_up98BA09464E4857499147E89C0BA5BC40.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Transition_Animations/zombie_stand_up.uasset'
+[2020.10.27-01.26.27:144][455]AssetCheck: New page: Asset Save: zombie_stand_up
+[2020.10.27-01.26.27:144][455]LogContentValidation: Display: Validating AnimSequence /Game/Lenhart/Animations/Transition_Animations/zombie_stand_up.zombie_stand_up
+[2020.10.27-01.26.29:536][677]LogSlate: Window 'zombie_stand_up' being destroyed
+[2020.10.27-01.26.29:544][677]LogSlate: Window 'zombie_stand_up' being destroyed
+[2020.10.27-01.26.29:545][677]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.29:545][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.29:575][677]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.29:575][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.29:649][677]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.26.29:649][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.26.42:642][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blnd_WalkToRun" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_WalkToRun.uasset" SILENT=true
+[2020.10.27-01.26.42:654][200]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_WalkToRunF3D7396944795973F91D218DE3CD2CC9.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_WalkToRun.uasset'
+[2020.10.27-01.26.42:908][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.10.27-01.26.42:942][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.10.27-01.26.42:958][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.27-01.26.42:989][200]AssetCheck: New page: Asset Save: Parasite_Blnd_WalkToRun
+[2020.10.27-01.26.42:989][200]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_WalkToRun.Parasite_Blnd_WalkToRun
+[2020.10.27-01.26.56:545][457]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.10.27-01.27.13:593][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blnd_IdleToRun" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_IdleToRun.uasset" SILENT=true
+[2020.10.27-01.27.13:601][459]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_IdleToRun7A458CFD4AE9C49986734C9E3EB1FF93.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_IdleToRun.uasset'
+[2020.10.27-01.27.13:736][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.10.27-01.27.13:762][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.10.27-01.27.13:777][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.27-01.27.13:807][459]AssetCheck: New page: Asset Save: Parasite_Blnd_IdleToRun
+[2020.10.27-01.27.13:808][459]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToRun.Parasite_Blnd_IdleToRun
+[2020.10.27-01.27.20:200][176]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_IdleToWalk34271AC34D6F4513DDA962A79A0D3314.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_IdleToWalk.uasset'
+[2020.10.27-01.27.20:334][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.27-01.27.20:358][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.10.27-01.27.20:374][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.10.27-01.27.20:406][176]AssetCheck: New page: Asset Save: Parasite_Blnd_IdleToWalk
+[2020.10.27-01.27.20:406][176]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.27.21:969][346]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.27.21:976][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_90:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.27.22:063][346]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_90:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.27.22:381][346]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.27.26:205][720]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.27.26:205][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.27.27:495][834]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.27.27:495][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.27.29:261][  2]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.27.29:262][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.27.32:539][321]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.27.32:540][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.27.35:336][587]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.27.35:413][587]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.27.35:413][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.28.00:324][142]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_IdleToWalkB6E5B70C4786148AACBBCFBDDC8DD73A.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_IdleToWalk.uasset'
+[2020.10.27-01.28.00:340][142]AssetCheck: New page: Asset Save: Parasite_Blnd_IdleToWalk
+[2020.10.27-01.28.00:340][142]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.28.01:195][224]LogSlate: Window 'Parasite_Blnd_IdleToWalk' being destroyed
+[2020.10.27-01.28.01:199][224]LogSlate: Window 'Parasite_Blnd_IdleToWalk' being destroyed
+[2020.10.27-01.28.01:199][224]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.28.01:199][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.28.01:299][224]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.28.01:299][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.28.03:352][441]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim
+[2020.10.27-01.28.03:362][441]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.28.03:721][441]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.28.04:068][441]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.28.23:490][860]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a6a792f3-2bdc-4b44-a04b-3507489dcf88}.
+[2020.10.27-01.28.23:490][860]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.28.23:640][860]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.28.23:640][860]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.28.24:161][862]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a6a792f3-2bdc-4b44-a04b-3507489dcf88}.
+[2020.10.27-01.28.24:161][862]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.28.24:234][862]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.28.24:234][862]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.28.55:567][484]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_WalkToRun.Parasite_Blnd_WalkToRun
+[2020.10.27-01.28.55:572][484]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.28.55:617][484]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.28.55:940][484]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.29.08:157][651]LogSlate: Window 'Parasite_Blnd_WalkToRun' being destroyed
+[2020.10.27-01.29.08:166][651]LogSlate: Window 'Parasite_Blnd_WalkToRun' being destroyed
+[2020.10.27-01.29.08:188][651]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.29.08:188][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.29.08:194][651]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.29.08:194][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.29.08:317][651]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.29.08:317][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.29.08:334][651]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.29.08:334][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.29.08:423][651]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.29.08:423][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.29.09:803][795]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim
+[2020.10.27-01.29.09:814][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.29.10:187][795]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.29.10:556][795]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.32.42:519][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.10.27-01.32.42:524][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.042
+[2020.10.27-01.32.42:525][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-01.32.42:537][982]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-01.32.42:537][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-01.32.42:575][982]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto54AD4C4DE44D7471C34D649B3D90AFD0D.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto5.uasset'
+[2020.10.27-01.32.42:577][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-01.32.42:587][982]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-01.32.42:587][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-01.32.42:602][982]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto5D9ECCE144445B997D892389E6ADB2CFB.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto5.uasset'
+[2020.10.27-01.32.42:604][982]LogFileHelpers: Auto-saving content packages took 0.079
+[2020.10.27-01.34.00:955][215]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{70245fbf-20ce-48aa-9df2-0e832d2ad08f}.
+[2020.10.27-01.34.00:956][215]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.34.00:982][215]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.34.00:982][215]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.34.13:265][251]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a6a792f3-2bdc-4b44-a04b-3507489dcf88}.
+[2020.10.27-01.34.13:265][251]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.34.13:296][251]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.34.13:296][251]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.34.13:603][252]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a6a792f3-2bdc-4b44-a04b-3507489dcf88}.
+[2020.10.27-01.34.13:603][252]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.34.13:868][252]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.34.13:868][252]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.34.56:642][379]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{70245fbf-20ce-48aa-9df2-0e832d2ad08f}.
+[2020.10.27-01.34.56:642][379]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.34.56:674][379]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.34.56:674][379]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.37.35:619][374]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.37.35:624][374]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.37.35:667][374]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.37.35:995][374]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.40.27:908][479]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_IdleToWalk3550F3C844CA4C6A255E528C2C9F5EB9.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_IdleToWalk.uasset'
+[2020.10.27-01.40.27:927][479]AssetCheck: New page: Asset Save: Parasite_Blnd_IdleToWalk
+[2020.10.27-01.40.27:928][479]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.40.30:825][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blnd_WalkToRun" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_WalkToRun.uasset" SILENT=true
+[2020.10.27-01.40.30:854][733]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_WalkToRun35CC56CD4E618DACDAA943BBA8B95725.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_WalkToRun.uasset'
+[2020.10.27-01.40.30:870][733]AssetCheck: New page: Asset Save: Parasite_Blnd_WalkToRun
+[2020.10.27-01.40.30:870][733]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_WalkToRun.Parasite_Blnd_WalkToRun
+[2020.10.27-01.40.40:942][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blnd_WalkToRun" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_WalkToRun.uasset" SILENT=true
+[2020.10.27-01.40.40:971][673]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_WalkToRun39592AFB4464CA787C484CA25F173FE4.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_WalkToRun.uasset'
+[2020.10.27-01.40.40:987][673]AssetCheck: New page: Asset Save: Parasite_Blnd_WalkToRun
+[2020.10.27-01.40.40:987][673]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_WalkToRun.Parasite_Blnd_WalkToRun
+[2020.10.27-01.41.22:641][494]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_IdleToWalk86B262C14042B241A7082C97669BF855.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_IdleToWalk.uasset'
+[2020.10.27-01.41.22:658][494]AssetCheck: New page: Asset Save: Parasite_Blnd_IdleToWalk
+[2020.10.27-01.41.22:658][494]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.41.33:895][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blnd_WalkToRun" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_WalkToRun.uasset" SILENT=true
+[2020.10.27-01.41.33:924][630]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_WalkToRun172FCC444F68BDDBB73958B45B7F39DD.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_WalkToRun.uasset'
+[2020.10.27-01.41.33:940][630]AssetCheck: New page: Asset Save: Parasite_Blnd_WalkToRun
+[2020.10.27-01.41.33:940][630]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_WalkToRun.Parasite_Blnd_WalkToRun
+[2020.10.27-01.41.35:754][811]LogSlate: Window 'Parasite_Blnd_WalkToRun' being destroyed
+[2020.10.27-01.41.35:758][811]LogSlate: Window 'Parasite_Blnd_WalkToRun' being destroyed
+[2020.10.27-01.41.35:768][811]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.41.35:768][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.41.35:773][811]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.41.35:773][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.41.35:894][811]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.41.35:894][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.41.35:913][811]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.41.35:913][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.41.35:998][811]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.41.35:998][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.41.37:101][918]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim
+[2020.10.27-01.41.37:111][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.41.37:447][918]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.41.37:805][918]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.45.30:623][168]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-01.45.30:669][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.10.27-01.45.46:033][959]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.45.46:038][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-01.45.46:081][959]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-01.45.46:424][959]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-01.45.59:327][242]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blnd_IdleToWalk48AACE2443E46B5554DF3FAD3A076392.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blnd_IdleToWalk.uasset'
+[2020.10.27-01.45.59:343][242]AssetCheck: New page: Asset Save: Parasite_Blnd_IdleToWalk
+[2020.10.27-01.45.59:343][242]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-01.46.00:225][318]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.46.00:225][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.46.00:321][318]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-01.46.00:322][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-01.50.58:934][825]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-01.50.58:938][825]LogBlueprint: Warning: [Compiler Parasite_Anim] IdleToWalk to Attack  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:939][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Attack to Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:939][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:939][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:940][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Idle to IdleToWalk  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:940][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Idle to Death  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:940][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Walk to Death  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:940][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Walk to Wound  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:940][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Idle to Wound  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:940][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Wound to Death  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:941][825]LogBlueprint: Warning: [Compiler Parasite_Anim] Wound to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-01.50.58:992][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.27-01.51.58:591][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.10.27-01.51.58:594][432]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.028
+[2020.10.27-01.51.58:594][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-01.51.58:603][432]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-01.51.58:603][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-01.51.58:659][432]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto6A49EC14647D7FB702BB9BE92B71425B3.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto6.uasset'
+[2020.10.27-01.51.58:661][432]LogFileHelpers: Auto-saving content packages took 0.067
+[2020.10.27-01.52.47:585][333]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter
+[2020.10.27-01.52.54:835][986]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/HeroCharacter.HeroCharacter
+[2020.10.27-01.55.57:872][281]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a6a792f3-2bdc-4b44-a04b-3507489dcf88}.
+[2020.10.27-01.55.57:872][281]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.55.57:912][281]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.55.57:913][281]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.55.58:205][282]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a6a792f3-2bdc-4b44-a04b-3507489dcf88}.
+[2020.10.27-01.55.58:205][282]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.55.58:420][282]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.55.58:420][282]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-01.56.51:161][439]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{70245fbf-20ce-48aa-9df2-0e832d2ad08f}.
+[2020.10.27-01.56.51:161][439]LogTemp: Resetting audio stream to device id 
+[2020.10.27-01.56.51:191][439]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-01.56.51:191][439]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-02.00.07:634][537]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/iDamagable.iDamagable_C"',MemberName="AffectHealth",MemberGuid=0D5944104F1FE4C5C9AE09B5336C1B7F)'
+[2020.10.27-02.00.07:635][537]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"''
+[2020.10.27-02.00.07:637][537]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"',MemberName="AffectHealth",MemberGuid=7BC613AC47EE3F1F34FDA99729A7E515)'
+[2020.10.27-02.00.07:641][537]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/TwinStickMode.TwinStickMode_C"''
+[2020.10.27-02.00.07:642][537]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/TwinStickMode.TwinStickMode_C"',MemberName="IncrementScore",MemberGuid=7D1999EA42698F36403011B9F191102C)'
+[2020.10.27-02.00.12:409][  2]LogEditorTransaction: Undo Paste clipboard contents
+[2020.10.27-02.00.12:515][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.00.27:826][180]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/iDamagable.iDamagable_C"',MemberName="AffectHealth",MemberGuid=0D5944104F1FE4C5C9AE09B5336C1B7F)'
+[2020.10.27-02.00.27:827][180]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"''
+[2020.10.27-02.00.27:829][180]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"',MemberName="AffectHealth",MemberGuid=7BC613AC47EE3F1F34FDA99729A7E515)'
+[2020.10.27-02.00.27:833][180]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/TwinStickMode.TwinStickMode_C"''
+[2020.10.27-02.00.27:834][180]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/TwinStickMode.TwinStickMode_C"',MemberName="IncrementScore",MemberGuid=7D1999EA42698F36403011B9F191102C)'
+[2020.10.27-02.00.48:385][949]LogEditorTransaction: Undo Paste clipboard contents
+[2020.10.27-02.00.48:493][949]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.00.51:802][286]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/iDamagable.iDamagable_C"',MemberName="AffectHealth",MemberGuid=0D5944104F1FE4C5C9AE09B5336C1B7F)'
+[2020.10.27-02.00.51:804][286]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"''
+[2020.10.27-02.00.51:806][286]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"',MemberName="AffectHealth",MemberGuid=7BC613AC47EE3F1F34FDA99729A7E515)'
+[2020.10.27-02.00.51:809][286]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/TwinStickMode.TwinStickMode_C"''
+[2020.10.27-02.00.51:810][286]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/TwinStickMode.TwinStickMode_C"',MemberName="IncrementScore",MemberGuid=7D1999EA42698F36403011B9F191102C)'
+[2020.10.27-02.01.10:723][191]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-02.01.10:727][191]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-02.01.10:727][191]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-02.01.10:727][191]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-02.01.10:727][191]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-02.01.10:728][191]LogBlueprint: Error: [Compiler EnemyCharacter] In use pin  As Hero Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.10.27-02.01.10:731][191]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  B  and  Hero : Object Reference is not compatible with Object Reference.
+[2020.10.27-02.01.10:731][191]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Hero  and  B : Object Reference is not compatible with Object Reference.
+[2020.10.27-02.01.10:731][191]LogBlueprint: Warning: [Compiler EnemyCharacter] Could not find a variable named "Hero" in 'EnemyCharacter_C'.
+Make sure 'EnemyCharacter_C' has been compiled for  Get Hero
+[2020.10.27-02.01.10:732][191]LogBlueprint: Warning: [Compiler EnemyCharacter] Could not find a variable named "AttacksPerSecond" in 'EnemyCharacter_C'.
+Make sure 'EnemyCharacter_C' has been compiled for  Get AttacksPerSecond
+[2020.10.27-02.01.10:732][191]LogBlueprint: Warning: [Compiler EnemyCharacter] Could not find a variable named "Hero" in 'EnemyCharacter_C'.
+Make sure 'EnemyCharacter_C' has been compiled for  Set Hero
+[2020.10.27-02.01.10:733][191]LogBlueprint: Error: [Compiler EnemyCharacter] The property associated with  Attacks Per Second  could not be found in '/Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2020.10.27-02.01.10:733][191]LogBlueprint: Error: [Compiler EnemyCharacter] The property associated with  Hero  could not be found in '/Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2020.10.27-02.01.10:733][191]LogBlueprint: Error: [Compiler EnemyCharacter] The property associated with  Hero  could not be found in '/Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2020.10.27-02.01.10:786][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.10.27-02.02.22:243][478]LogEditorTransaction: Undo Delete current selection
+[2020.10.27-02.02.22:348][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.02.22:520][481]LogEditorTransaction: Undo Create Pin Link
+[2020.10.27-02.02.22:623][481]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.02.22:911][497]LogEditorTransaction: Undo Move Node
+[2020.10.27-02.02.23:015][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.02.23:475][540]LogEditorTransaction: Undo Move Node
+[2020.10.27-02.02.23:578][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.02.23:965][576]LogEditorTransaction: Undo Promote To Variable
+[2020.10.27-02.02.24:076][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.02.24:534][617]LogEditorTransaction: Undo Move Node
+[2020.10.27-02.02.24:639][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.02.25:085][658]LogEditorTransaction: Undo Delete current selection
+[2020.10.27-02.02.25:198][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.03.10:329][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.10.27-02.03.10:331][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/WIPMap" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.27-02.03.10:381][597]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/WIPMap_Auto7F245C5D44A35410994E6F18A4274DFF1.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto7.umap'
+[2020.10.27-02.03.10:384][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.084
+[2020.10.27-02.03.10:384][597]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.084
+[2020.10.27-02.03.10:384][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-02.03.10:393][597]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-02.03.10:393][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-02.03.10:447][597]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto7438033824254EEF1B75D628298220451.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto7.uasset'
+[2020.10.27-02.03.10:449][597]LogFileHelpers: Auto-saving content packages took 0.065
+[2020.10.27-02.03.42:033][ 78]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Lenhart/Animations/Death_Animations/zombie_stumbling.zombie_stumbling
+[2020.10.27-02.03.42:038][ 78]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_114:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.03.42:082][ 78]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_114:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.03.42:466][ 78]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.03.49:412][632]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.03.49:412][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.03.49:440][632]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.03.49:440][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.03.49:555][632]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.03.49:555][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.03.52:482][893]LogEditorTransaction: Undo Move Node
+[2020.10.27-02.03.52:582][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.03.53:137][917]LogEditorTransaction: Undo Create Pin Link
+[2020.10.27-02.03.53:235][917]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.04.28:264][112]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-02.04.32:314][472]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-02.04.33:230][553]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-02.04.37:332][925]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-02.04.37:439][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.04.37:948][942]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-02.04.38:053][942]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.11.02:011][854]LogEditorTransaction: Undo Move Node
+[2020.10.27-02.11.02:118][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.11.35:818][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/TwinStickMode.TwinStickMode
+[2020.10.27-02.11.40:920][422]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.11.40:920][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.13.10:826][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.27-02.13.10:832][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.043
+[2020.10.27-02.13.10:832][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-02.13.10:841][503]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-02.13.10:841][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-02.13.10:878][503]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto83B54227543C8A84C0A212FBB20AD4E68.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto8.uasset'
+[2020.10.27-02.13.10:880][503]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.10.27-02.16.18:777][448]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BaseCharacter.BaseCharacter_C"''
+[2020.10.27-02.16.18:778][448]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BaseCharacter.BaseCharacter_C"',MemberName="IsDead",MemberGuid=2F6D06994AEB168B548E38B2F1984840)'
+[2020.10.27-02.16.42:898][310]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.16.42:904][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.16.42:904][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set IsDead
+[2020.10.27-02.16.42:904][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.16.42:904][310]LogBlueprint: Error: [Compiler Parasite_Anim] In use pin  As Base Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.10.27-02.16.42:905][310]LogBlueprint: Warning: [Compiler Parasite_Anim] IdleToWalk to Attack  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:905][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Attack to Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:906][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:906][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:906][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Idle to IdleToWalk  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:906][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Idle to Death  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:906][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Walk to Death  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:907][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Walk to Wound  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:907][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Idle to Wound  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:907][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Wound to Death  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:907][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Wound to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:907][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Walk to IdleToWalk  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:907][310]LogBlueprint: Warning: [Compiler Parasite_Anim] IdleToWalk to Walk  will never be taken, please connect something to  Can Enter Transition
+[2020.10.27-02.16.42:913][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.16.42:913][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set IsDead
+[2020.10.27-02.16.42:913][310]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.16.42:913][310]LogBlueprint: Error: [Compiler Parasite_Anim] In use pin  As Base Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.10.27-02.16.42:915][310]LogBlueprint: Error: [Compiler Parasite_Anim] The type of  Object  is undetermined.  Connect something to  Bad cast node  to imply a specific type.
+[2020.10.27-02.16.42:915][310]LogBlueprint: Error: [Compiler Parasite_Anim] The property associated with  Death Anim Selector  could not be found in '/Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim_C'
+[2020.10.27-02.16.42:915][310]LogBlueprint: Error: [Compiler Parasite_Anim] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.10.27-02.16.42:915][310]LogBlueprint: Error: [Compiler Parasite_Anim] The property associated with  Is Dead  could not be found in '/Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim_C'
+[2020.10.27-02.16.42:915][310]LogBlueprint: Error: [Compiler Parasite_Anim] The property associated with  Is Dead  could not be found in '/Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim_C'
+[2020.10.27-02.16.42:960][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.10.27-02.21.54:627][312]LogProperty: Warning: ObjectProperty /Script/AnimGraphRuntime.AnimNode_BlendSpacePlayer:BlendSpace: unresolved reference to 'BlendSpace'"/Game/AnimationAssets/HeroBlend.HeroBlend"')'
+[2020.10.27-02.21.54:631][312]LogProperty: Warning: ObjectProperty /Script/Engine.AnimNode_SequencePlayer:Sequence: unresolved reference to 'AnimSequence'"/Game/AnimationAssets/Death_1.Death_1"',bLoopAnimation=False)'
+[2020.10.27-02.21.54:632][312]LogProperty: Warning: ObjectProperty /Script/Engine.AnimNode_SequencePlayer:Sequence: unresolved reference to 'AnimSequence'"/Game/AnimationAssets/Death_2.Death_2"',bLoopAnimation=False)'
+[2020.10.27-02.21.54:633][312]LogProperty: Warning: ObjectProperty /Script/Engine.AnimNode_SequencePlayer:Sequence: unresolved reference to 'AnimSequence'"/Game/AnimationAssets/Death_3.Death_3"',bLoopAnimation=False)'
+[2020.10.27-02.22.45:670][257]LogEditorTransaction: Undo Break Pin Links
+[2020.10.27-02.22.45:771][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.22.46:313][277]LogEditorTransaction: Undo Promote To Variable
+[2020.10.27-02.22.46:417][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.23.48:792][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.10.27-02.23.48:795][458]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.042
+[2020.10.27-02.23.48:796][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-02.23.48:804][458]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-02.23.48:804][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-02.23.48:842][458]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto91E8067B547D588FF479A0FAEEC9C3062.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto9.uasset'
+[2020.10.27-02.23.48:843][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-02.23.48:852][458]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-02.23.48:852][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-02.23.48:900][458]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto98EA471EE4FFFEA01F316ACB86C18DEC9.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto9.uasset'
+[2020.10.27-02.23.48:902][458]LogFileHelpers: Auto-saving content packages took 0.107
+[2020.10.27-02.24.06:578][831]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-02.24.06:630][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.10.27-02.24.24:034][221]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.24.24:038][221]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.24.24:038][221]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.24.24:039][221]LogBlueprint: Error: [Compiler Parasite_Anim] Blendspace Player '(None)'  references an unknown blend space
+[2020.10.27-02.24.24:039][221]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Get DeathAnimSelector
+[2020.10.27-02.24.24:040][221]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.24.24:040][221]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.24.24:040][221]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.24.24:040][221]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_BlendSpacePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.24.24:040][221]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.24.24:040][221]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.24.24:040][221]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_3 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.24.24:091][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.27-02.26.13:752][501]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BaseCharacter.BaseCharacter_C"',MemberName="IsDead",MemberGuid=2F6D06994AEB168B548E38B2F1984840)'
+[2020.10.27-02.26.17:756][787]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.26.17:760][787]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.26.17:760][787]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.26.17:760][787]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.26.17:761][787]LogBlueprint: Error: [Compiler Parasite_Anim] Blendspace Player '(None)'  references an unknown blend space
+[2020.10.27-02.26.17:761][787]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Get DeathAnimSelector
+[2020.10.27-02.26.17:762][787]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.26.17:762][787]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.26.17:762][787]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.26.17:762][787]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_BlendSpacePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.26.17:762][787]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.26.17:762][787]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.26.17:762][787]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_3 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.26.17:812][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.10.27-02.27.03:625][900]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.27.03:629][900]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.27.03:629][900]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.27.03:629][900]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.27.03:630][900]LogBlueprint: Error: [Compiler Parasite_Anim] Blendspace Player '(None)'  references an unknown blend space
+[2020.10.27-02.27.03:630][900]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Get DeathAnimSelector
+[2020.10.27-02.27.03:631][900]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.27.03:631][900]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.27.03:631][900]LogBlueprint: Error: [Compiler Parasite_Anim] Play (None)  references an unknown sequence
+[2020.10.27-02.27.03:631][900]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_BlendSpacePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.27.03:631][900]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_1 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.27.03:631][900]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.27.03:631][900]LogBlueprint: Error: [Compiler Parasite_Anim] Missing allocated node for AnimGraphNode_SequencePlayer_3 while searching for node links - likely due to the node having outstanding errors.
+[2020.10.27-02.27.03:679][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.10.27-02.29.00:448][107]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-02.29.02:913][300]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-02.29.03:512][342]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-02.29.05:762][515]LogSlate: Window 'Tutorials' being destroyed
+[2020.10.27-02.30.05:016][696]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.10.27-02.30.14:085][426]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.30.14:089][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_118:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.30.14:133][426]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_118:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.30.14:469][426]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.30.29:111][535]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.30.29:111][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.30.40:134][373]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.30.40:224][373]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.30.40:224][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.32.18:443][615]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.32.18:443][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.32.33:613][761]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/zombie_idleC9CA1A9443288B407D9A1FBDD5805583.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Idle_Animations/zombie_idle.uasset'
+[2020.10.27-02.32.33:630][761]AssetCheck: New page: Asset Save: zombie_idle
+[2020.10.27-02.32.33:630][761]LogContentValidation: Display: Validating AnimSequence /Game/Lenhart/Animations/Idle_Animations/zombie_idle.zombie_idle
+[2020.10.27-02.32.35:734][915]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.32.35:828][915]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.32.35:828][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.33.27:992][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blendspace" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blendspace.uasset" SILENT=true
+[2020.10.27-02.33.28:005][127]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blendspace40F4DE6144EAFCA20725D8BBE73F7416.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blendspace.uasset'
+[2020.10.27-02.33.28:034][127]AssetCheck: New page: Asset Save: Parasite_Blendspace
+[2020.10.27-02.33.28:034][127]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.33.28:975][197]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.33.28:975][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.33.29:162][197]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.33.29:162][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.33.47:533][585]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.33.47:537][585]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.33.47:537][585]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.33.47:537][585]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.33.47:545][585]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.33.47:545][585]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.33.47:546][585]LogBlueprint: Error: [Compiler Parasite_Anim] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.10.27-02.33.47:546][585]LogBlueprint: Error: [Compiler Parasite_Anim] The property associated with  Is Dead  could not be found in '/Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim_C'
+[2020.10.27-02.33.47:546][585]LogBlueprint: Error: [Compiler Parasite_Anim] The property associated with  Death Anim Selector  could not be found in '/Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim_C'
+[2020.10.27-02.33.47:602][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.10.27-02.33.59:633][501]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.33.59:637][501]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_124:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.33.59:680][501]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_124:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.34.00:005][501]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.34.11:123][387]LogSlate: Window 'Parasite_Blendspace' being destroyed
+[2020.10.27-02.34.11:128][387]LogSlate: Window 'Parasite_Blendspace' being destroyed
+[2020.10.27-02.34.11:141][387]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.34.11:141][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.34.11:148][387]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.34.11:148][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.34.12:040][387]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.34.12:040][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.34.12:072][387]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.27-02.34.12:072][387]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.34.12:072][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.34.12:130][387]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.27-02.34.12:130][387]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.34.12:130][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.34.12:194][387]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.34.12:194][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.34.12:285][387]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.34.12:285][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.34.18:018][745]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim
+[2020.10.27-02.34.18:028][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.34.18:393][745]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.34.18:796][745]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.34.43:998][ 94]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.34.44:003][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_129:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.34.44:046][ 94]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_129:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.34.44:383][ 94]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.34.44:454][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.10.27-02.34.44:460][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/WIPMap" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.27-02.34.44:512][ 95]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/WIPMap_Auto0967DC3E04777590E8B26CFA033FA32B8.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto0.umap'
+[2020.10.27-02.34.44:515][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.092
+[2020.10.27-02.34.44:515][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.092
+[2020.10.27-02.34.44:515][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-02.34.44:525][ 95]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-02.34.44:525][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-02.34.44:567][ 95]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto0B409F7AC420C17885E78BA9FAE09E906.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto0.uasset'
+[2020.10.27-02.34.44:569][ 95]LogFileHelpers: Auto-saving content packages took 0.054
+[2020.10.27-02.34.59:675][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blendspace" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blendspace.uasset" SILENT=true
+[2020.10.27-02.34.59:707][266]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blendspace05F758244003ADA9EE3925A82F53B1CA.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blendspace.uasset'
+[2020.10.27-02.34.59:725][266]AssetCheck: New page: Asset Save: Parasite_Blendspace
+[2020.10.27-02.34.59:725][266]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.35.03:959][430]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.35.03:963][430]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.35.03:963][430]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.35.03:963][430]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.35.03:971][430]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "IsDead" in 'Parasite_Anim'.
+Make sure 'Parasite_Anim' has been compiled for  Get IsDead
+[2020.10.27-02.35.03:971][430]LogBlueprint: Warning: [Compiler Parasite_Anim] Could not find a variable named "DeathAnimSelector" in 'Parasite_Anim_C'.
+Make sure 'Parasite_Anim_C' has been compiled for  Set DeathAnimSelector
+[2020.10.27-02.35.03:972][430]LogBlueprint: Error: [Compiler Parasite_Anim] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.10.27-02.35.03:972][430]LogBlueprint: Error: [Compiler Parasite_Anim] The property associated with  Is Dead  could not be found in '/Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim_C'
+[2020.10.27-02.35.03:972][430]LogBlueprint: Error: [Compiler Parasite_Anim] The property associated with  Death Anim Selector  could not be found in '/Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim_C'
+[2020.10.27-02.35.04:010][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.10.27-02.36.29:017][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blendspace" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blendspace.uasset" SILENT=true
+[2020.10.27-02.36.29:043][281]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blendspace9B45DE034A3EB403D9E3998F9BD54A00.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blendspace.uasset'
+[2020.10.27-02.36.29:059][281]AssetCheck: New page: Asset Save: Parasite_Blendspace
+[2020.10.27-02.36.29:059][281]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.38.01:097][382]LogSlate: Took 0.743808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.27-02.41.11:533][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter
+[2020.10.27-02.42.12:237][272]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a6a792f3-2bdc-4b44-a04b-3507489dcf88}.
+[2020.10.27-02.42.12:237][272]LogTemp: Resetting audio stream to device id 
+[2020.10.27-02.42.12:273][272]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-02.42.12:273][272]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-02.42.12:573][273]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a6a792f3-2bdc-4b44-a04b-3507489dcf88}.
+[2020.10.27-02.42.12:573][273]LogTemp: Resetting audio stream to device id 
+[2020.10.27-02.42.12:923][273]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-02.42.12:923][273]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-02.42.20:478][296]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{70245fbf-20ce-48aa-9df2-0e832d2ad08f}.
+[2020.10.27-02.42.20:478][296]LogTemp: Resetting audio stream to device id 
+[2020.10.27-02.42.20:508][296]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-02.42.20:508][296]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-02.42.52:977][ 62]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"''
+[2020.10.27-02.44.44:818][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.10.27-02.44.44:828][527]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.040
+[2020.10.27-02.44.44:829][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-02.44.44:838][527]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-02.44.44:838][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-02.44.44:879][527]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto13B90DE4F423A3E110546ACBA1B6111DC.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto1.uasset'
+[2020.10.27-02.44.44:881][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-02.44.44:889][527]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-02.44.44:890][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-02.44.44:932][527]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto10082917541F300D4861F90A290C216A8.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto1.uasset'
+[2020.10.27-02.44.44:934][527]LogFileHelpers: Auto-saving content packages took 0.106
+[2020.10.27-02.46.00:936][498]LogSlate: Window 'Delete Variable' being destroyed
+[2020.10.27-02.46.12:720][648]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-02.46.12:774][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.27-02.47.38:136][732]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-02.47.38:189][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.27-02.48.12:711][ 96]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/BaseCharacter.BaseCharacter_C"',MemberName="IsDead",MemberGuid=2F6D06994AEB168B548E38B2F1984840)'
+[2020.10.27-02.50.02:445][410]LogSlate: Window 'Delete Variable' being destroyed
+[2020.10.27-02.50.15:286][518]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.50.15:341][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.27-02.50.33:501][ 96]LogEditorTransaction: Undo Delete current selection
+[2020.10.27-02.50.33:676][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.50.33:679][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_129:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.51.16:500][695]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Lenhart/Animations/Idle_Animations/injured_stumble_idle.injured_stumble_idle
+[2020.10.27-02.51.16:508][695]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.51.16:550][695]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.51.16:895][695]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.51.28:700][615]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Lenhart/Animations/Transition_Animations/zombie_stand_up.zombie_stand_up
+[2020.10.27-02.52.17:657][581]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/tftho/Desktop/Animations/Shooter Pack/walking to dying.fbx)
+[2020.10.27-02.52.17:670][581]LogFbx: Loading FBX Scene from C:/Users/tftho/Desktop/Animations/Shooter Pack/walking to dying.fbx
+[2020.10.27-02.52.17:694][581]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.27-02.52.25:530][581]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(0) Hips
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(1) Spine
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(2) Spine1
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(3) Spine2
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(4) Neck
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(5) Head
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(8) LeftArm
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(10) LeftHand
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.10.27-02.52.25:564][581]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(31) RightShoulder
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(32) RightArm
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(33) RightForeArm
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(34) RightHand
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(56) LeftLeg
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(57) LeftFoot
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(61) RightLeg
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(62) RightFoot
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(63) RightToeBase
+[2020.10.27-02.52.25:565][581]LogFbx: SortedLinks :(64) RightToe_End
+[2020.10.27-02.52.25:567][581]LogFbx: Parsing AnimStack mixamo.com
+[2020.10.27-02.52.28:945][581]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Lenhart/Animations/walking_to_dying.walking_to_dying
+[2020.10.27-02.52.28:945][581]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Lenhart/Animations/walking_to_dying.walking_to_dying
+[2020.10.27-02.52.36:750][188]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Lenhart/Animations/walking_to_dying.walking_to_dying
+[2020.10.27-02.52.36:841][188]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.52.36:841][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.52.43:308][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.10.27-02.52.44:932][673]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.27-02.52.46:195][673]LogWorld: UWorld::CleanupWorld for World_136, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.52.46:195][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.52.46:373][673]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.52.46:373][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.52.46:396][673]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.52.46:396][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.52.46:416][673]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Lenhart/Animations/walking_to_dying.walking_to_dying
+[2020.10.27-02.52.46:844][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.10.27-02.52.51:416][ 22]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_1.Death_1
+[2020.10.27-02.52.51:424][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.52.51:812][ 22]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.53.11:415][692]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_2.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.11:415][692]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_2.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.11:415][692]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_2.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.11:416][692]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_2.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.11:416][692]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_2.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.11:416][692]LoadErrors: Failed to load /Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by Death_2
+[2020.10.27-02.53.11:416][692]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_2.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.11:451][692]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_2.Death_2
+[2020.10.27-02.53.14:516][692]LogSlate: Window 'Message' being destroyed
+[2020.10.27-02.53.14:520][692]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim 'Death_2' Would you like to choose a new one?
+[2020.10.27-02.53.14:678][692]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.10.27-02.53.19:284][110]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_2.Death_2
+[2020.10.27-02.53.19:284][110]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_2.Death_2
+[2020.10.27-02.53.19:343][110]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_2.Death_2
+[2020.10.27-02.53.19:347][110]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.19:392][110]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.53.19:734][110]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.10.27-02.53.19:735][110]LogWorld: UWorld::CleanupWorld for World_141, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.19:736][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.19:750][110]LogWorld: UWorld::CleanupWorld for World_140, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.19:750][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.19:817][110]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_2.Death_2
+[2020.10.27-02.53.19:899][110]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.53.25:117][520]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_3.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.25:117][520]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_3.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.25:118][520]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_3.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.25:118][520]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_3.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.25:118][520]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_3.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.25:119][520]LoadErrors: Failed to load /Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenced by Death_3
+[2020.10.27-02.53.25:119][520]LogLinker: Warning: While loading 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/TwinStickShooterContent/AnimationAssets/Death_3.uasset' failed to load '/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton': Can't find file.
+[2020.10.27-02.53.25:152][520]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_3.Death_3
+[2020.10.27-02.53.27:028][520]LogSlate: Window 'Message' being destroyed
+[2020.10.27-02.53.27:031][520]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim 'Death_3' Would you like to choose a new one?
+[2020.10.27-02.53.27:196][520]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.10.27-02.53.39:037][599]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_3.Death_3
+[2020.10.27-02.53.39:037][599]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_3.Death_3
+[2020.10.27-02.53.39:093][599]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_3.Death_3
+[2020.10.27-02.53.39:211][599]LogSlate: Window 'Select Skeleton' being destroyed
+[2020.10.27-02.53.39:213][599]LogWorld: UWorld::CleanupWorld for World_146, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.39:213][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.39:222][599]LogWorld: UWorld::CleanupWorld for World_145, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.39:222][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.39:299][599]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_3.Death_3
+[2020.10.27-02.53.39:327][599]LogWorld: UWorld::CleanupWorld for World_144, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.39:327][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.42:151][784]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_2.Death_2
+[2020.10.27-02.53.42:250][784]LogWorld: UWorld::CleanupWorld for World_147, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.42:250][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.43:032][839]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_3.Death_3
+[2020.10.27-02.53.43:129][839]LogWorld: UWorld::CleanupWorld for World_148, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.43:129][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.48:953][231]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.48:953][231]LogEditorTransaction: Undo Edit Skeleton
+[2020.10.27-02.53.49:325][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.49:329][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.49:330][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.49:331][231]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.49:661][247]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.49:661][247]LogEditorTransaction: Undo Move Node
+[2020.10.27-02.53.50:032][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.50:036][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.50:036][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.50:038][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.50:041][247]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.50:041][247]LogEditorTransaction: Undo Create Pin Link
+[2020.10.27-02.53.50:421][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.50:425][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.50:425][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.50:427][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.50:844][272]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.50:844][272]LogEditorTransaction: Undo Move Node
+[2020.10.27-02.53.51:232][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.51:235][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.51:235][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.51:237][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.52:947][391]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.52:947][391]LogEditorTransaction: Undo Add Node
+[2020.10.27-02.53.53:320][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.53:323][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.53:324][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.53:325][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.53:329][391]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.53:329][391]LogEditorTransaction: Undo Create Pin Link
+[2020.10.27-02.53.53:708][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.53:711][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.53:712][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.53:713][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.53:717][391]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.53:717][391]LogEditorTransaction: Undo Move Node
+[2020.10.27-02.53.54:115][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.54:119][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.54:119][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.54:121][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.54:554][414]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.54:555][414]LogEditorTransaction: Undo Add Node
+[2020.10.27-02.53.54:932][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.54:936][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.54:936][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.54:937][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.54:941][414]Cmd: TRANSACTION UNDO
+[2020.10.27-02.53.54:941][414]LogEditorTransaction: Undo Delete current selection
+[2020.10.27-02.53.55:324][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.55:328][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.55:329][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.55:330][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_142:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.53.58:175][617]LogSlate: Window 'Death_3' being destroyed
+[2020.10.27-02.53.58:179][617]LogSlate: Window 'Death_3' being destroyed
+[2020.10.27-02.53.58:201][617]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.58:201][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.58:206][617]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.58:206][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.59:187][617]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.59:187][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.59:217][617]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.59:218][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.59:278][617]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.59:279][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.53.59:308][617]LogWorld: UWorld::CleanupWorld for World_134, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.53.59:308][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.54.00:091][617]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.54.00:091][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.54.00:107][617]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.54.00:107][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.54.00:137][617]LogWorld: UWorld::CleanupWorld for World_139, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.54.00:137][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.54.00:853][617]LogWorld: UWorld::CleanupWorld for World_138, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.54.00:853][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.54.00:866][617]LogWorld: UWorld::CleanupWorld for World_142, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.54.00:866][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.54.00:899][617]LogWorld: UWorld::CleanupWorld for World_149, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.54.00:899][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.54.01:467][617]LogWorld: UWorld::CleanupWorld for World_143, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.54.01:467][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.54.04:080][904]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.04:080][904]LogEditorTransaction: Redo Delete current selection
+[2020.10.27-02.54.05:320][998]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.05:320][998]LogEditorTransaction: Redo Add Node
+[2020.10.27-02.54.06:388][119]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.06:388][119]LogEditorTransaction: Redo Move Node
+[2020.10.27-02.54.07:355][228]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.07:355][228]LogEditorTransaction: Redo Create Pin Link
+[2020.10.27-02.54.08:455][353]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.08:455][353]LogEditorTransaction: Redo Add Node
+[2020.10.27-02.54.09:480][469]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.09:480][469]LogEditorTransaction: Redo Move Node
+[2020.10.27-02.54.10:713][610]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.10:713][610]LogEditorTransaction: Redo Create Pin Link
+[2020.10.27-02.54.11:680][721]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.11:680][721]LogEditorTransaction: Redo Move Node
+[2020.10.27-02.54.12:746][845]Cmd: TRANSACTION REDO
+[2020.10.27-02.54.12:746][845]LogEditorTransaction: Redo Edit Skeleton
+[2020.10.27-02.54.45:521][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.10.27-02.54.45:528][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/WIPMap" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.27-02.54.45:583][572]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/WIPMap_Auto2ECF55A3E42EC0B469CA0629D8B68282B.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto2.umap'
+[2020.10.27-02.54.45:586][572]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.106
+[2020.10.27-02.54.45:586][572]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.106
+[2020.10.27-02.54.45:587][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-02.54.45:597][572]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-02.54.45:597][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-02.54.45:641][572]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto29F8E0745421233BA0416F49792158966.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto2.uasset'
+[2020.10.27-02.54.45:644][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-02.54.45:653][572]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-02.54.45:653][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-02.54.45:696][572]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto2B0C7264C41753AB08DC8FEB1D4C42CA2.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto2.uasset'
+[2020.10.27-02.54.45:698][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickShooterContent/AnimationAssets/Death_3] ([1] browsable assets)...
+[2020.10.27-02.54.45:706][572]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_3.Death_3]
+[2020.10.27-02.54.45:706][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickShooterContent/AnimationAssets/Death_3]
+[2020.10.27-02.54.45:735][572]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Death_3_Auto216383D0948B2282D9FABCCB1CEF53B50.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/TwinStickShooterContent/AnimationAssets/Death_3_Auto2.uasset'
+[2020.10.27-02.54.45:737][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickShooterContent/AnimationAssets/Death_2] ([1] browsable assets)...
+[2020.10.27-02.54.45:746][572]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TwinStickShooterContent/AnimationAssets/Death_2.Death_2]
+[2020.10.27-02.54.45:746][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickShooterContent/AnimationAssets/Death_2]
+[2020.10.27-02.54.45:774][572]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Death_2_Auto2EA7754A645C23F261D7C3487E636A806.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/TwinStickShooterContent/AnimationAssets/Death_2_Auto2.uasset'
+[2020.10.27-02.54.45:776][572]LogFileHelpers: Auto-saving content packages took 0.190
+[2020.10.27-02.55.25:667][172]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/tftho/Downloads/Zombie Death.fbx)
+[2020.10.27-02.55.25:711][172]LogFbx: Loading FBX Scene from C:/Users/tftho/Downloads/Zombie Death.fbx
+[2020.10.27-02.55.25:799][172]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.27-02.55.29:940][172]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.27-02.55.29:964][172]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node parasiteZombie : The relative matrices do not match
+[2020.10.27-02.55.29:964][172]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.10.27-02.55.29:965][172]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - parasiteZombie
+[2020.10.27-02.55.29:965][172]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.10.27-02.55.29:969][172]LogMaterial: Display: Material /Game/Lenhart/Animations/Death_Animations/parasitezombie_Material.parasitezombie_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2020.10.27-02.55.29:971][172]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2020.10.27-02.55.30:191][172]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.10.27-02.55.30:191][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.10.27-02.55.30:191][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.10.27-02.55.30:191][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.10.27-02.55.30:192][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.10.27-02.55.30:192][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.10.27-02.55.30:192][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.10.27-02.55.30:192][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.10.27-02.55.30:192][172]LogTexture: Display: Building textures: parasiteZombie_diffuse (AutoDXT, 2048X2048)
+[2020.10.27-02.55.31:344][172]LogTexture: Display: Building textures: parasiteZombie_specular (AutoDXT, 2048X2048)
+[2020.10.27-02.55.32:451][172]LogTexture: Display: Building textures: parasiteZombie_normal (BC5, 2048X2048)
+[2020.10.27-02.55.32:869][172]LogTexture: Display: Building textures: parasiteZombie_diffuse (AutoDXT, 2048X2048)
+[2020.10.27-02.55.33:782][172]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2020.10.27-02.55.33:838][172]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 87
+[2020.10.27-02.55.33:838][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 77
+[2020.10.27-02.55.33:838][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 67
+[2020.10.27-02.55.33:838][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2020.10.27-02.55.33:838][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2020.10.27-02.55.33:839][172]LogFbx: Triangulating skeletal mesh parasiteZombie
+[2020.10.27-02.55.34:697][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2020.10.27-02.55.34:697][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2020.10.27-02.55.34:697][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2020.10.27-02.55.34:697][172]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.10.27-02.55.35:295][172]LogSkeletalMesh: Section 0: 6740 vertices, 52 active bones
+[2020.10.27-02.55.35:297][172]LogSkeletalMesh: Section 0: Material=0, 10856 triangles
+[2020.10.27-02.55.35:344][172]LogSkeletalMesh: Building Skeletal Mesh Zombie_Death...
+[2020.10.27-02.55.35:738][172]LogSkeletalMesh: Section 0: 6740 vertices, 52 active bones
+[2020.10.27-02.55.35:740][172]LogSkeletalMesh: Section 0: Material=0, 10856 triangles
+[2020.10.27-02.55.35:790][172]LogSkeletalMesh: Built Skeletal Mesh [0.45s] /Game/Lenhart/Animations/Death_Animations/Zombie_Death.Zombie_Death
+[2020.10.27-02.55.35:815][172]LogWorld: UWorld::CleanupWorld for World_150, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.55.35:815][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.55.35:832][172]LogFbx: SortedLinks :(0) Hips
+[2020.10.27-02.55.35:832][172]LogFbx: SortedLinks :(1) Spine
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(2) Spine1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(3) Spine2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(4) RightShoulder
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(5) RightArm
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(6) RightForeArm
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(7) RightHand
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(8) RightHandThumb1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(9) RightHandThumb2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(10) RightHandThumb3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(11) RightHandThumb4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(12) RightHandIndex1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(13) RightHandIndex2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(14) RightHandIndex3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(15) RightHandIndex4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(16) RightHandMiddle1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(17) RightHandMiddle2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(18) RightHandMiddle3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(19) RightHandMiddle4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(20) RightHandRing1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(21) RightHandRing2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(22) RightHandRing3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(23) RightHandRing4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(24) RightHandPinky1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(25) RightHandPinky2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(26) RightHandPinky3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(27) RightHandPinky4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(28) Neck
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(29) Head
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(30) HeadTop_End
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(31) LeftShoulder
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(32) LeftArm
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(33) LeftForeArm
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(34) LeftHand
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(35) LeftHandThumb1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(36) LeftHandThumb2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(37) LeftHandThumb3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(38) LeftHandThumb4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(39) LeftHandIndex1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(40) LeftHandIndex2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(41) LeftHandIndex3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(42) LeftHandIndex4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(43) LeftHandMiddle1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(44) LeftHandMiddle2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(45) LeftHandMiddle3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(46) LeftHandMiddle4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(47) LeftHandRing1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(48) LeftHandRing2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(49) LeftHandRing3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(50) LeftHandRing4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(51) LeftHandPinky1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(52) LeftHandPinky2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(53) LeftHandPinky3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(54) LeftHandPinky4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(56) LeftLeg
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(57) LeftFoot
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(61) RightLeg
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(62) RightFoot
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(63) RightToeBase
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(64) RightToe_End
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(0) Hips
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(1) Spine
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(2) Spine1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(3) Spine2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(4) RightShoulder
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(5) RightArm
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(6) RightForeArm
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(7) RightHand
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(8) RightHandThumb1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(9) RightHandThumb2
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(10) RightHandThumb3
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(11) RightHandThumb4
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(12) RightHandIndex1
+[2020.10.27-02.55.35:833][172]LogFbx: SortedLinks :(13) RightHandIndex2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(14) RightHandIndex3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(15) RightHandIndex4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(16) RightHandMiddle1
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(17) RightHandMiddle2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(18) RightHandMiddle3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(19) RightHandMiddle4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(20) RightHandRing1
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(21) RightHandRing2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(22) RightHandRing3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(23) RightHandRing4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(24) RightHandPinky1
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(25) RightHandPinky2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(26) RightHandPinky3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(27) RightHandPinky4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(28) Neck
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(29) Head
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(30) HeadTop_End
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(31) LeftShoulder
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(32) LeftArm
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(33) LeftForeArm
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(34) LeftHand
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(35) LeftHandThumb1
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(36) LeftHandThumb2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(37) LeftHandThumb3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(38) LeftHandThumb4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(39) LeftHandIndex1
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(40) LeftHandIndex2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(41) LeftHandIndex3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(42) LeftHandIndex4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(43) LeftHandMiddle1
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(44) LeftHandMiddle2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(45) LeftHandMiddle3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(46) LeftHandMiddle4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(47) LeftHandRing1
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(48) LeftHandRing2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(49) LeftHandRing3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(50) LeftHandRing4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(51) LeftHandPinky1
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(52) LeftHandPinky2
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(53) LeftHandPinky3
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(54) LeftHandPinky4
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(56) LeftLeg
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(57) LeftFoot
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(61) RightLeg
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(62) RightFoot
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(63) RightToeBase
+[2020.10.27-02.55.35:834][172]LogFbx: SortedLinks :(64) RightToe_End
+[2020.10.27-02.55.35:836][172]LogFbx: Parsing AnimStack Take 001
+[2020.10.27-02.55.36:692][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2020.10.27-02.55.37:256][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2020.10.27-02.55.37:409][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.10.27-02.55.37:803][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.10.27-02.55.38:716][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.10.27-02.55.38:716][172]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.10.27-02.55.38:833][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.10.27-02.55.38:833][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.10.27-02.55.38:963][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.10.27-02.55.38:963][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.10.27-02.55.38:963][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.10.27-02.55.39:105][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.10.27-02.55.39:105][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.10.27-02.55.41:807][172]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Lenhart/Animations/Death_Animations/Zombie_Death_Anim_Take_001.Zombie_Death_Anim_Take_001
+[2020.10.27-02.55.41:807][172]LogFbx: Parsing AnimStack mixamo.com
+[2020.10.27-02.56.02:702][172]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Lenhart/Animations/Death_Animations/Zombie_Death_Anim_mixamo_com.Zombie_Death_Anim_mixamo_com
+[2020.10.27-02.56.02:735][172]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.10.27-02.56.06:205][437]LogSlate: Window 'Message Log' being destroyed
+[2020.10.27-02.56.06:210][437]LogSlate: Window 'Message Log' being destroyed
+[2020.10.27-02.56.11:450][ 16]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Lenhart/Animations/Death_Animations/Zombie_Death_Anim_mixamo_com.Zombie_Death_Anim_mixamo_com
+[2020.10.27-02.56.11:457][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_151:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.56.11:556][ 16]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_151:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.56.11:913][ 16]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.56.15:366][303]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Lenhart/Animations/Death_Animations/Zombie_Death_Anim_Take_001.Zombie_Death_Anim_Take_001
+[2020.10.27-02.56.15:445][303]LogWorld: UWorld::CleanupWorld for World_153, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.56.15:445][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.56.16:716][402]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Lenhart/Animations/Death_Animations/Zombie_Death.Zombie_Death
+[2020.10.27-02.56.16:720][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_155:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.56.16:772][402]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_155:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.56.18:964][586]LogSlate: Window 'Zombie_Death' being destroyed
+[2020.10.27-02.56.18:971][586]LogSlate: Window 'Zombie_Death' being destroyed
+[2020.10.27-02.56.18:972][586]LogWorld: UWorld::CleanupWorld for World_151, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.56.18:972][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.56.18:992][586]LogWorld: UWorld::CleanupWorld for World_154, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.56.18:992][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.56.19:115][586]LogWorld: UWorld::CleanupWorld for World_152, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.56.19:115][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.56.19:131][586]LogWorld: UWorld::CleanupWorld for World_155, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.56.19:131][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.56.23:997][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.10.27-02.56.25:129][104]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.27-02.56.26:511][104]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Lenhart/Animations/Death_Animations/Zombie_Death_Anim_Take_001.Zombie_Death_Anim_Take_001
+	Asset Name: /Game/Lenhart/Animations/Death_Animations/Zombie_Death_PhysicsAsset.Zombie_Death_PhysicsAsset
+[2020.10.27-02.56.27:113][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.10.27-02.56.30:244][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.10.27-02.56.31:438][441]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.27-02.56.32:639][441]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Lenhart/Animations/Death_Animations/parasiteZombie_diffuse.parasiteZombie_diffuse
+	Asset Name: /Game/Lenhart/Animations/Death_Animations/parasitezombie_Material.parasitezombie_Material
+	Asset Name: /Game/Lenhart/Animations/Death_Animations/parasiteZombie_normal.parasiteZombie_normal
+	Asset Name: /Game/Lenhart/Animations/Death_Animations/parasiteZombie_specular.parasiteZombie_specular
+	Asset Name: /Game/Lenhart/Animations/Death_Animations/Zombie_Death.Zombie_Death
+[2020.10.27-02.56.32:870][441]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2020.10.27-02.56.32:871][441]LogMaterial: Warning: /Game/Lenhart/Animations/Death_Animations/parasitezombie_Material.parasitezombie_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-02.56.32:871][441]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.10.27-02.56.32:872][441]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2020.10.27-02.56.32:873][441]LogMaterial: Warning: /Game/Lenhart/Animations/Death_Animations/parasitezombie_Material.parasitezombie_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-02.56.32:873][441]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.10.27-02.56.32:874][441]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2020.10.27-02.56.32:875][441]LogMaterial: Warning: /Game/Lenhart/Animations/Death_Animations/parasitezombie_Material.parasitezombie_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-02.56.32:875][441]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.10.27-02.56.32:876][441]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2020.10.27-02.56.32:876][441]LogMaterial: Warning: /Game/Lenhart/Animations/Death_Animations/parasitezombie_Material.parasitezombie_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-02.56.32:876][441]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.10.27-02.56.32:877][441]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2020.10.27-02.56.32:878][441]LogMaterial: Warning: /Game/Lenhart/Animations/Death_Animations/parasitezombie_Material.parasitezombie_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-02.56.32:878][441]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.10.27-02.56.32:879][441]LogMaterial: Display: Missing cached shader map for material parasitezombie_Material, compiling. 
+[2020.10.27-02.56.32:880][441]LogMaterial: Warning: /Game/Lenhart/Animations/Death_Animations/parasitezombie_Material.parasitezombie_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.27-02.56.32:880][441]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.10.27-02.56.33:827][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.10.27-02.56.34:783][544]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Lenhart/Animations/Death_Animations/Zombie_Death_Anim_mixamo_com.Zombie_Death_Anim_mixamo_com
+[2020.10.27-02.56.34:790][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_156:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.56.34:866][544]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_156:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.56.35:202][544]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.56.36:326][630]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Zombie_Death_Anim_mixamo_com9E41D9F14F0EECEF157B9C92408B429C.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Death_Animations/Zombie_Death_Anim_mixamo_com.uasset'
+[2020.10.27-02.56.36:355][630]AssetCheck: New page: Asset Save: Zombie_Death_Anim_mixamo_com
+[2020.10.27-02.56.36:355][630]LogContentValidation: Display: Validating AnimSequence /Game/Lenhart/Animations/Death_Animations/Zombie_Death_Anim_mixamo_com.Zombie_Death_Anim_mixamo_com
+[2020.10.27-02.56.37:411][734]LogSlate: Window 'Zombie_Death_Anim_mixamo_com' being destroyed
+[2020.10.27-02.56.37:414][734]LogSlate: Window 'Zombie_Death_Anim_mixamo_com' being destroyed
+[2020.10.27-02.56.37:415][734]LogWorld: UWorld::CleanupWorld for World_156, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.56.37:415][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.56.37:443][734]LogWorld: UWorld::CleanupWorld for World_158, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.56.37:443][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.56.37:565][734]LogWorld: UWorld::CleanupWorld for World_157, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.56.37:565][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.56.42:883][322]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim
+[2020.10.27-02.56.42:894][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_160:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.56.43:245][322]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_160:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.56.43:639][322]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.57.09:542][592]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.57.09:597][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.27-02.57.11:322][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Anim" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Anim.uasset" SILENT=true
+[2020.10.27-02.57.11:365][742]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim194C9E1047343A9EBBC8858570071014.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Anim.uasset'
+[2020.10.27-02.57.11:391][742]AssetCheck: New page: Asset Save: Parasite_Anim
+[2020.10.27-02.57.11:391][742]LogContentValidation: Display: Validating AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim
+[2020.10.27-02.57.20:275][407]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.10.27-02.57.43:380][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor20)
+[2020.10.27-02.57.46:830][916]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Lenhart/Animations/Parasite_Blnd_IdleToWalk.Parasite_Blnd_IdleToWalk
+[2020.10.27-02.57.46:835][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_162:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.27-02.57.46:877][916]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_162:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.27-02.57.47:211][916]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.27-02.57.57:057][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Animations/Parasite_Blendspace" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blendspace.uasset" SILENT=true
+[2020.10.27-02.57.57:089][631]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Blendspace006D51CD4FC02ADF787F97836A24A261.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Animations/Parasite_Blendspace.uasset'
+[2020.10.27-02.57.57:107][631]AssetCheck: New page: Asset Save: Parasite_Blendspace
+[2020.10.27-02.57.57:107][631]LogContentValidation: Display: Validating BlendSpace /Game/Lenhart/Animations/Parasite_Blendspace.Parasite_Blendspace
+[2020.10.27-02.57.58:974][759]BlueprintLog: New page: Compile Parasite_Anim
+[2020.10.27-02.57.59:019][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.27-02.58.01:746][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor20)
+[2020.10.27-02.58.04:266][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/WIPMap" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/WIPMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.27-02.58.04:291][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.10.27-02.58.04:345][179]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/WIPMapB400EED04B121B783113AC80E276AE6B.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/WIPMap.umap'
+[2020.10.27-02.58.04:388][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/WIPMap_BuiltData" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/WIPMap_BuiltData.uasset" SILENT=true
+[2020.10.27-02.58.04:453][179]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/WIPMap_BuiltData1B122EC94ECC4ED7983DD28216AD142E.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/WIPMap_BuiltData.uasset'
+[2020.10.27-02.58.04:471][179]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.27-02.58.04:471][179]LogContentValidation: Display: Validating World /Game/Lenhart/WIPMap.WIPMap
+[2020.10.27-02.58.04:471][179]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lenhart/WIPMap_BuiltData.WIPMap_BuiltData
+[2020.10.27-02.58.04:938][228]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-02.58.04:953][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-02.58.04:953][228]PIE: New page: PIE session: WIPMap (Oct 26, 2020, 6:58:04 PM)
+[2020.10.27-02.58.04:953][228]LogPlayLevel: Creating play world package: /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-02.58.04:959][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005089s)
+[2020.10.27-02.58.04:959][228]LogAIModule: Creating AISystem for world WIPMap
+[2020.10.27-02.58.04:959][228]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027AE2A4EA00), frame # 450228
+[2020.10.27-02.58.04:960][228]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027BB0695E40), frame # 450228
+[2020.10.27-02.58.04:960][228]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2020.10.27-02.58.04:960][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lenhart/WIPMap.WIPMap to /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap (0.006419s)
+[2020.10.27-02.58.04:988][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.10.27-02.58.04:990][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-02.58.04:990][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-02.58.04:990][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-02.58.04:990][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-02.58.04:990][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-02.58.04:990][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-02.58.04:990][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-02.58.04:990][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-02.58.04:990][228]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-02.58.04:990][228]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-02.58.04:998][228]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-02.58.04:998][228]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-02.58.05:023][228]LogAudioMixer: Display: Using Audio Device Headphones (3- Arctis Pro Wireless Game)
+[2020.10.27-02.58.05:024][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-02.58.05:024][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-02.58.05:024][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-02.58.05:024][228]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-02.58.05:039][228]LogInit: FAudioDevice initialized.
+[2020.10.27-02.58.05:051][228]LogLoad: Game class is 'TwinStickMode_C'
+[2020.10.27-02.58.05:054][228]LogWorld: Bringing World /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap up for play (max tick rate 0) at 2020.10.26-22.58.05
+[2020.10.27-02.58.05:055][228]LogWorld: Bringing up level for play took: 0.003393
+[2020.10.27-02.58.05:055][228]LogOnline: OSS: Creating online subsystem instance for: :Context_167
+[2020.10.27-02.58.05:059][228]PIE: Server logged in
+[2020.10.27-02.58.05:060][228]PIE: Play in editor total start time 0.111 seconds.
+[2020.10.27-02.58.28:063][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-02.58.28:063][870]LogWorld: BeginTearingDown for /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-02.58.28:063][870]LogWorld: UWorld::CleanupWorld for WIPMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-02.58.28:064][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.58.28:075][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-02.58.28:079][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-02.58.28:119][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-02.58.28:121][870]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027BB0695E40), frame # 452870
+[2020.10.27-02.58.28:121][870]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027AE2A4EA00), frame # 452870
+[2020.10.27-02.58.28:123][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.10.27-02.58.28:157][871]LogPlayLevel: Display: Destroying online subsystem :Context_167
+[2020.10.27-02.58.43:232][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter
+[2020.10.27-02.58.44:975][619]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-02.58.45:033][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.10.27-02.58.45:740][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Blueprints/EnemyCharacter" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2020.10.27-02.58.45:779][673]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter6F3ADA304F1E1D590B18AAB7ABF706B0.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Blueprints/EnemyCharacter.uasset'
+[2020.10.27-02.58.45:798][673]AssetCheck: New page: Asset Save: EnemyCharacter
+[2020.10.27-02.58.45:798][673]LogContentValidation: Display: Validating Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter
+[2020.10.27-02.59.16:441][ 63]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event ActorBeginOverlap  and was replaced as a Custom Event!
+[2020.10.27-02.59.16:442][ 63]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/iDamagable.iDamagable_C"',MemberName="AffectHealth",MemberGuid=0D5944104F1FE4C5C9AE09B5336C1B7F)'
+[2020.10.27-02.59.16:444][ 63]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"''
+[2020.10.27-02.59.16:446][ 63]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"',MemberName="AffectHealth",MemberGuid=7BC613AC47EE3F1F34FDA99729A7E515)'
+[2020.10.27-02.59.16:450][ 63]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/TwinStickMode.TwinStickMode_C"''
+[2020.10.27-02.59.16:450][ 63]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/TwinStickMode.TwinStickMode_C"',MemberName="IncrementScore",MemberGuid=7D1999EA42698F36403011B9F191102C)'
+[2020.10.27-02.59.49:900][928]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/HeroCharacter.HeroCharacter_C"',MemberName="AffectHealth",MemberGuid=7BC613AC47EE3F1F34FDA99729A7E515)'
+[2020.10.27-03.03.42:516][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/EnemyAi.EnemyAi
+[2020.10.27-03.08.52:733][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.27-03.08.52:749][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/WIPMap" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.27-03.08.52:809][836]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/WIPMap_Auto321E7A55241397DFB3F1BE8BFCC39BB1A.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto3.umap'
+[2020.10.27-03.08.52:812][836]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.113
+[2020.10.27-03.08.52:812][836]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.113
+[2020.10.27-03.08.52:812][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-03.08.52:822][836]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-03.08.52:822][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-03.08.52:879][836]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto36D79372942258B132C34589959433333.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto3.uasset'
+[2020.10.27-03.08.52:882][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-03.08.52:890][836]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-03.08.52:891][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-03.08.52:950][836]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto368CC91C0430608F088A47A87B88FCA58.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto3.uasset'
+[2020.10.27-03.08.52:952][836]LogFileHelpers: Auto-saving content packages took 0.140
+[2020.10.27-03.12.21:331][ 63]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/iDamage.iDamage
+[2020.10.27-03.13.05:680][148]BlueprintLog: New page: Compile iDamage
+[2020.10.27-03.13.05:713][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.10.27-03.13.11:377][802]LogWorld: UWorld::CleanupWorld for World_166, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-03.13.11:377][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-03.13.30:945][943]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-03.13.30:950][943]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.13.30:950][943]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.13.30:950][943]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  B  and  Hero : Object Reference is not compatible with Object Reference.
+[2020.10.27-03.13.30:950][943]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Hero  and  B : Object Reference is not compatible with Object Reference.
+[2020.10.27-03.13.30:950][943]LogBlueprint: Warning: [Compiler EnemyCharacter] Could not find a variable named "Hero" in 'EnemyCharacter_C'.
+Make sure 'EnemyCharacter_C' has been compiled for  Get Hero
+[2020.10.27-03.13.30:951][943]LogBlueprint: Warning: [Compiler EnemyCharacter] Could not find a variable named "AttacksPerSecond" in 'EnemyCharacter_C'.
+Make sure 'EnemyCharacter_C' has been compiled for  Get AttacksPerSecond
+[2020.10.27-03.13.30:952][943]LogBlueprint: Error: [Compiler EnemyCharacter] The property associated with  Attacks Per Second  could not be found in '/Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2020.10.27-03.13.30:952][943]LogBlueprint: Error: [Compiler EnemyCharacter] The property associated with  Hero  could not be found in '/Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter_C'
+[2020.10.27-03.13.31:004][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.10.27-03.18.05:746][104]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-03.18.05:762][104]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.27-03.18.05:763][104]LogPlayLevel: [PlayLevel] Compiling EnemyCharacter before play...
+[2020.10.27-03.18.05:766][104]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.18.05:766][104]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.18.05:844][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.27-03.18.05:861][104]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (1 blueprints)
+[2020.10.27-03.18.05:861][104]BlueprintLog: Warning: Blueprint failed to compile:  EnemyCharacter
+[2020.10.27-03.18.05:862][104]LogCustomDialog: Dialog displayed:
+[2020.10.27-03.18.09:526][104]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.10.27-03.18.09:530][104]PIE: New page: PIE session: WIPMap (Oct 26, 2020, 7:18:09 PM)
+[2020.10.27-03.18.09:558][104]LogPlayLevel: Creating play world package: /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-03.18.09:566][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008396s)
+[2020.10.27-03.18.09:567][104]LogAIModule: Creating AISystem for world WIPMap
+[2020.10.27-03.18.09:567][104]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027B97E9CE00), frame # 492104
+[2020.10.27-03.18.09:567][104]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027A24A15D00), frame # 492104
+[2020.10.27-03.18.09:567][104]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2020.10.27-03.18.09:567][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lenhart/WIPMap.WIPMap to /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap (0.009649s)
+[2020.10.27-03.18.09:594][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.10.27-03.18.09:595][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-03.18.09:595][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-03.18.09:595][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-03.18.09:595][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-03.18.09:595][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-03.18.09:595][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-03.18.09:595][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-03.18.09:595][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-03.18.09:596][104]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-03.18.09:596][104]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-03.18.09:604][104]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-03.18.09:604][104]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-03.18.09:629][104]LogAudioMixer: Display: Using Audio Device Headphones (3- Arctis Pro Wireless Game)
+[2020.10.27-03.18.09:630][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-03.18.09:630][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-03.18.09:630][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-03.18.09:630][104]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-03.18.09:644][104]LogInit: FAudioDevice initialized.
+[2020.10.27-03.18.09:653][104]LogLoad: Game class is 'TwinStickMode_C'
+[2020.10.27-03.18.09:656][104]LogWorld: Bringing World /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap up for play (max tick rate 0) at 2020.10.26-23.18.09
+[2020.10.27-03.18.09:657][104]LogWorld: Bringing up level for play took: 0.003132
+[2020.10.27-03.18.09:657][104]LogOnline: OSS: Creating online subsystem instance for: :Context_171
+[2020.10.27-03.18.09:660][104]PIE: Server logged in
+[2020.10.27-03.18.09:661][104]PIE: Play in editor total start time 3.904 seconds.
+[2020.10.27-03.18.23:383][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-03.18.23:383][680]LogWorld: BeginTearingDown for /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-03.18.23:383][680]LogWorld: UWorld::CleanupWorld for WIPMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-03.18.23:384][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-03.18.23:396][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-03.18.23:399][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-03.18.23:424][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-03.18.23:444][680]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027A24A15D00), frame # 493680
+[2020.10.27-03.18.23:444][680]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027B97E9CE00), frame # 493680
+[2020.10.27-03.18.23:446][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.10.27-03.18.23:477][681]LogPlayLevel: Display: Destroying online subsystem :Context_171
+[2020.10.27-03.18.24:225][768]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor30)
+[2020.10.27-03.19.10:897][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.10.27-03.19.10:900][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/WIPMap" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.10.27-03.19.10:953][998]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/WIPMap_Auto4353E6A79492573C5FD0BEDB83A734024.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/WIPMap_Auto4.umap'
+[2020.10.27-03.19.10:956][998]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lenhart/WIPMap' took 0.086
+[2020.10.27-03.19.10:956][998]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.086
+[2020.10.27-03.19.10:956][998]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Blueprints/EnemyCharacter] ([1] browsable assets)...
+[2020.10.27-03.19.10:965][998]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter]
+[2020.10.27-03.19.10:965][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/EnemyCharacter]
+[2020.10.27-03.19.11:020][998]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter_Auto41C653B294B05B14670F354A33A598300.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/EnemyCharacter_Auto4.uasset'
+[2020.10.27-03.19.11:022][998]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lenhart/Animations/Parasite_Anim] ([1] browsable assets)...
+[2020.10.27-03.19.11:031][998]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Lenhart/Animations/Parasite_Anim.Parasite_Anim]
+[2020.10.27-03.19.11:031][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Animations/Parasite_Anim]
+[2020.10.27-03.19.11:090][998]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Parasite_Anim_Auto4864A8EB84EDAAA26AA029486BECB216D.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Animations/Parasite_Anim_Auto4.uasset'
+[2020.10.27-03.19.11:092][998]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lenhart/Blueprints/iDamage] ([1] browsable assets)...
+[2020.10.27-03.19.11:092][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lenhart/Blueprints/iDamage]
+[2020.10.27-03.19.11:096][998]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/iDamage_Auto4E8D0A6CB402CBDEE86D911B306753005.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/Autosaves/Game/Lenhart/Blueprints/iDamage_Auto4.uasset'
+[2020.10.27-03.19.11:098][998]LogFileHelpers: Auto-saving content packages took 0.142
+[2020.10.27-03.20.14:349][936]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-03.20.14:353][936]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.20.14:353][936]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.20.14:406][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.27-03.20.14:615][948]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-03.20.14:619][948]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.20.14:619][948]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.20.14:671][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.27-03.20.29:578][ 85]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-03.20.29:582][ 85]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.20.29:583][ 85]LogBlueprint: Error: [Compiler EnemyCharacter] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.10.27-03.20.29:635][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.10.27-03.23.02:924][540]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-03.23.02:981][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.27-03.23.07:952][954]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-03.23.07:971][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-03.23.07:971][954]PIE: New page: PIE session: WIPMap (Oct 26, 2020, 7:23:07 PM)
+[2020.10.27-03.23.08:008][954]LogPlayLevel: Creating play world package: /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-03.23.08:013][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004766s)
+[2020.10.27-03.23.08:013][954]LogAIModule: Creating AISystem for world WIPMap
+[2020.10.27-03.23.08:014][954]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027AB8937A00), frame # 499954
+[2020.10.27-03.23.08:014][954]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027AB8378E00), frame # 499954
+[2020.10.27-03.23.08:014][954]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2020.10.27-03.23.08:014][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lenhart/WIPMap.WIPMap to /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap (0.005987s)
+[2020.10.27-03.23.08:042][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.27-03.23.08:044][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-03.23.08:044][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-03.23.08:044][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-03.23.08:044][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-03.23.08:044][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-03.23.08:044][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-03.23.08:044][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-03.23.08:044][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-03.23.08:045][954]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-03.23.08:045][954]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-03.23.08:052][954]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-03.23.08:052][954]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-03.23.08:078][954]LogAudioMixer: Display: Using Audio Device Headphones (3- Arctis Pro Wireless Game)
+[2020.10.27-03.23.08:078][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-03.23.08:078][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-03.23.08:078][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-03.23.08:079][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-03.23.08:092][954]LogInit: FAudioDevice initialized.
+[2020.10.27-03.23.08:102][954]LogLoad: Game class is 'TwinStickMode_C'
+[2020.10.27-03.23.08:105][954]LogWorld: Bringing World /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap up for play (max tick rate 0) at 2020.10.26-23.23.08
+[2020.10.27-03.23.08:105][954]LogWorld: Bringing up level for play took: 0.003161
+[2020.10.27-03.23.08:106][954]LogOnline: OSS: Creating online subsystem instance for: :Context_172
+[2020.10.27-03.23.08:108][954]PIE: Server logged in
+[2020.10.27-03.23.08:109][954]PIE: Play in editor total start time 0.143 seconds.
+[2020.10.27-03.23.38:943][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-03.23.38:943][859]LogWorld: BeginTearingDown for /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-03.23.38:944][859]LogWorld: UWorld::CleanupWorld for WIPMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-03.23.38:945][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-03.23.38:954][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-03.23.38:958][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-03.23.38:982][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-03.23.39:004][859]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027AB8378E00), frame # 502859
+[2020.10.27-03.23.39:004][859]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027AB8937A00), frame # 502859
+[2020.10.27-03.23.39:006][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.10.27-03.23.39:037][860]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2020.10.27-03.24.26:707][556]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-03.24.26:767][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.27-03.25.26:256][423]BlueprintLog: New page: Compile EnemyCharacter
+[2020.10.27-03.25.26:314][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.10.27-03.25.26:973][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lenhart/Blueprints/EnemyCharacter" FILE="C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Blueprints/EnemyCharacter.uasset" SILENT=true
+[2020.10.27-03.25.27:030][479]LogSavePackage: Moving 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Saved/EnemyCharacter809F100248A3E24CF8DEB3B58EE4E011.tmp' to 'C:/Users/tftho/Saved Games/TwinStickWalkthrough/Content/Lenhart/Blueprints/EnemyCharacter.uasset'
+[2020.10.27-03.25.27:050][479]AssetCheck: New page: Asset Save: EnemyCharacter
+[2020.10.27-03.25.27:050][479]LogContentValidation: Display: Validating Blueprint /Game/Lenhart/Blueprints/EnemyCharacter.EnemyCharacter
+[2020.10.27-03.25.31:418][939]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-03.25.31:434][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-03.25.31:434][939]PIE: New page: PIE session: WIPMap (Oct 26, 2020, 7:25:31 PM)
+[2020.10.27-03.25.31:434][939]LogPlayLevel: Creating play world package: /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-03.25.31:439][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004641s)
+[2020.10.27-03.25.31:440][939]LogAIModule: Creating AISystem for world WIPMap
+[2020.10.27-03.25.31:440][939]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027BBA365400), frame # 509939
+[2020.10.27-03.25.31:440][939]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027AB009B880), frame # 509939
+[2020.10.27-03.25.31:440][939]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2020.10.27-03.25.31:440][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lenhart/WIPMap.WIPMap to /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap (0.005866s)
+[2020.10.27-03.25.31:467][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.10.27-03.25.31:469][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-03.25.31:469][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-03.25.31:469][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-03.25.31:469][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-03.25.31:469][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-03.25.31:469][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-03.25.31:469][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-03.25.31:469][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-03.25.31:469][939]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-03.25.31:469][939]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-03.25.31:477][939]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-03.25.31:477][939]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-03.25.31:502][939]LogAudioMixer: Display: Using Audio Device Headphones (3- Arctis Pro Wireless Game)
+[2020.10.27-03.25.31:503][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-03.25.31:503][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-03.25.31:503][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-03.25.31:503][939]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-03.25.31:517][939]LogInit: FAudioDevice initialized.
+[2020.10.27-03.25.31:525][939]LogLoad: Game class is 'TwinStickMode_C'
+[2020.10.27-03.25.31:528][939]LogWorld: Bringing World /Game/Lenhart/UEDPIE_0_WIPMap.WIPMap up for play (max tick rate 0) at 2020.10.26-23.25.31
+[2020.10.27-03.25.31:529][939]LogWorld: Bringing up level for play took: 0.003260
+[2020.10.27-03.25.31:529][939]LogOnline: OSS: Creating online subsystem instance for: :Context_173
+[2020.10.27-03.25.31:532][939]PIE: Server logged in
+[2020.10.27-03.25.31:533][939]PIE: Play in editor total start time 0.103 seconds.
+[2020.10.27-03.25.45:153][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-03.25.45:153][564]LogWorld: BeginTearingDown for /Game/Lenhart/UEDPIE_0_WIPMap
+[2020.10.27-03.25.45:153][564]LogWorld: UWorld::CleanupWorld for WIPMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-03.25.45:154][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-03.25.45:164][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-03.25.45:168][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-03.25.45:210][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-03.25.45:212][564]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027AB009B880), frame # 511564
+[2020.10.27-03.25.45:212][564]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027BBA365400), frame # 511564
+[2020.10.27-03.25.45:214][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.10.27-03.25.45:244][565]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2020.10.27-03.26.01:482][997]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lenhart/Blueprints/HeroCharacter.HeroCharacter
